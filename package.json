@@ -1,0 +1,27 @@
+{
+  "name": "webradio",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@fastify/cors": "^8.0.0",
+    "@fastify/static": "^6.10.2",
+    "fastify": "^4.21.0",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "webradio",
+    "FIP",
+    "API"
+  ]
+}
